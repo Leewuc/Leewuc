@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello😄&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffff00&desc=It's%20Chance%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello😄&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=fffff0&desc=It's%20Chance%20GitHub)
 <!--
 **Leewuc/Leewuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
